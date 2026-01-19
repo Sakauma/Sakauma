@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Sakauma!
+### Hi there 👋, I'm Egor Izmaylov!
 
-我是 Sakauma，一名对 AI 和前端开发感兴趣的开发者。欢迎来到我的 GitHub 主页！
+我是 Egor Izmaylov，一名对 AI 和前端开发感兴趣的开发者。欢迎来到我的 GitHub 主页！
 
 - 🔭 我目前正在维护我的个人博客：[sakauma.github.io](https://sakauma.github.io/)
 - 🌱 我正在学习 **3D Generation** 和 **Web Development**
@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakauma&show_icons=true&theme=radical&count_private=true" height="180px" alt="Sakauma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&layout=compact&theme=radical&hide=html,css" height="180px" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&theme=radical&hide=html,css" height="180px" alt="Top Langs" />
 </div>
 
 ---
