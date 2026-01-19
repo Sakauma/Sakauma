@@ -1,28 +1,22 @@
-### Hi there 👋, I'm Egor Izmaylov!
-
-我是 Egor Izmaylov，一名对 AI 和前端开发感兴趣的开发者。欢迎来到我的 GitHub 主页！
-
-- 🔭 我目前正在维护我的个人博客：[sakauma.github.io](https://sakauma.github.io/)
-- 🌱 我正在学习 **3D Generation** 和 **Web Development**
-- 💬 如果你有任何有趣的想法，欢迎通过 Issue 与我交流
-
----
-
-### 📊 My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakauma&show_icons=true&theme=radical&count_private=true" height="180px" alt="Sakauma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&theme=radical&hide=html,css" height="180px" alt="Top Langs" />
-</div>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Sakauma;I+Build+3D+Worlds+with+Code;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
 
-### 🛠️ Tech Stack & Tools
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sakauma&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="160px"/>
+
+<br/><br/>
+
+### 🚀 What I'm Learning
+<p>
+  <img src="https://img.shields.io/badge/-NeRF-333333?style=flat&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gaussian%20Splatting-333333?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
 </p>
+
+</div>
