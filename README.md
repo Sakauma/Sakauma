@@ -11,9 +11,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakauma&show_icons=true&theme=radical&count_private=true" alt="Sakauma's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakauma&show_icons=true&theme=radical&count_private=true" height="180px" alt="Sakauma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakauma&layout=compact&theme=radical&hide=html,css" height="180px" alt="Top Langs" />
 </div>
 
 ---
